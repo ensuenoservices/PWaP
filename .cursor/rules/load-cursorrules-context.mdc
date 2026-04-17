@@ -1,0 +1,10 @@
+---
+description: Points the agent to persistent notes in .cursorrules
+alwaysApply: true
+---
+
+# Project persistent notes
+
+When doing substantive work in this repo, read and follow **`.cursorrules/CONTEXT.md`** for long-lived project context, constraints, and conventions.
+
+If that file is empty or generic, ask the user what to record there when they share important preferences.
