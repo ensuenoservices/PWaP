@@ -14,11 +14,7 @@ Edit this file with information you want the AI to keep in mind for this workspa
 
 *Add your notes below.*
 
-
-
 *PWaP Productions stands for Party with a Purpose. We throw events with DJs, clothes and accessories vendors, food & drinks, yoga, etc... with the intention of making money for profit, but also to donate a portion to a select non-profit which changes per event. It's intentional partying.* 
-
-
 
 *We are looking to throw a wide variety of events. Some examples are:*
 
@@ -29,8 +25,6 @@ Roller Rink Disco Skate
 Runway Fashion Show
 
 Outdoor party in the mountains, mini-festival style
-
-
 
 *We are located in Denver, Colorado and lead by:*
 
